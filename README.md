@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Mohammad Faiz 👋
 
-<!--
-**mohammadfaiz2722/mohammadfaiz2722** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Wave](https://media.giphy.com/media/xThta6SwYlAmGyNk3e/giphy.gif)
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JavaScript](https://img.shields.io/badge/JavaScript-276DC3?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammadfaiz2722&show_icons=true&theme=radical)
+
+## 🚀 About Me
+
+I'm a Full Stack Developer with a passion for creating stunning websites. Check out my [portfolio](https://www.durgeshprasad.co/).
+
+![Animated SVG](https://your-link-to-svg.svg)
