@@ -62,4 +62,4 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack and NEXT.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 <!-- Footer with an animated SVG -->
-![Footer SVG]([https://raw.githubusercontent.com/mohammadfaiz2722/mohammadfaiz2722/main/assets/footer.svg](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmVlNGZqenRkejh5dDg3OTB6OGg1eXQzdWV1ZDl6NnI1aWFjenJnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QTmfvHGklosY1ha87W/giphy.gif))
+![Footer SVG](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmVlNGZqenRkejh5dDg3OTB6OGg1eXQzdWV1ZDl6NnI1aWFjenJnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QTmfvHGklosY1ha87W/giphy.gif)
