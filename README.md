@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohammad+Faiz!;" alt="Typing SVG" />
 </h1>
 <!-- Header Section with GIF -->
-![Header GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzAxbzdwZmdhNDJpem1ja2lreDFzbjhyaGJmMnd0ODhvaXg0NDhyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)
 
 # Hi there, I'm Mohammad Faiz 👋
 
@@ -51,22 +50,17 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack and NEXT.
 <!-- Project Section with animated icons -->
 ### 🌟 Featured Projects
 
-- [Portfolio Website](https://github.com/mohammadfaiz2722/portfolio) - My stunning portfolio website built with Next.js and Tailwind CSS.
-- [Awesome Project](https://github.com/mohammadfaiz2722/awesome-project) - An awesome project demonstrating my skills in full-stack development.
+- [Portfolio Website](https://faizfolio.netlify.app) - My stunning portfolio website built with Next.js and Tailwind CSS.
+- [Awesome Project](https://faizfolio.netlify.app) - An awesome project demonstrating my skills in full-stack development.
 
-## ✍️ Blog Posts
-
-<!-- Latest Blog Posts Section -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ## 📫 Connect with Me
 
 <!-- Social Media Links with Icons -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohammad-faiz-a8596b309)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your-instagram/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohammadfaiz2722)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:myyard789@gmail.com)
 
 <!-- Footer with an animated SVG -->
 ![Footer SVG](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmVlNGZqenRkejh5dDg3OTB6OGg1eXQzdWV1ZDl6NnI1aWFjenJnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QTmfvHGklosY1ha87W/giphy.gif)
