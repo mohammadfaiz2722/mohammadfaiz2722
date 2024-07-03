@@ -1,28 +1,21 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammadfaiz2722&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohammad+Faiz!;" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Mohammad%20Faiz&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20MERN%20Specialist%20|%20Next.js%20Enthusiast&descAlignY=51&descAlign=62" width="100%" />
+</div>
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Web%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
-<h3 align="center">🚀 Full Stack Developer | MERN Specialist | Next.js Enthusiast 🚀</h3>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohammadfaiz2722&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mohammadfaiz2722?label=Followers&style=social" alt="GitHub Followers" />
+</div>
+
+<h2 align="center">🚀 Tech Stack Mastery 🚀</h2>
 
 <p align="center">
-  <em>
-    Passionate about crafting seamless web experiences and pushing the boundaries of what's possible in web development.
-  </em>
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
 </p>
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
-<h2 align="center">🛠️ Technologies & Tools</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -39,86 +32,59 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+<h2 align="center">🌟 Featured Projects 🌟</h2>
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<div align="center">
+  <a href="https://github.com/mohammadfaiz2722/portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohammadfaiz2722&repo=portfolio&theme=radical" />
+  </a>
+
+</div>
+
+<h2 align="center">📊 GitHub Analytics 📊</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadfaiz2722&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <a href="https://github.com/mohammadfaiz2722">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammadfaiz2722&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadfaiz2722&layout=compact&langs_count=8&theme=radical"/>
+  </a>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadfaiz2722&theme=radical" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadfaiz2722&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<h2 align="center">🏆 GitHub Profile Trophy 🏆</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammadfaiz2722&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
-<h2 align="center">🌟 Featured Projects</h2>
-
-<p align="center">
-  <a href="https://faizfolio.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/mohammadfaiz2722/awesome-project" target="_blank">
-    <img src="https://img.shields.io/badge/Awesome_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Awesome Project" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mohammadfaiz2722&theme=radical&no-frame=true&row=1&column=7" alt="trophy" />
   </a>
 </p>
 
-<p align="center">
-  <em>Click on the badges to explore the projects!</em>
-</p>
+<h2 align="center">🤝 Let's Connect 🤝</h2>
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
-<h2 align="center">🤝 Let's Connect</h2>
-
-<p align="center">
-  <a href="www.linkedin.com/in/mohammad-faiz-a8596b309" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/mohammad-faiz-a8596b309" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/your-instagram/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" />
   </a>
   <a href="https://github.com/mohammadfaiz2722" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub" />
   </a>
   <a href="mailto:myyard789@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
+<h2 align="center">💡 Random Dev Quote 💡</h2>
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
-<h2 align="center">🎉 Fun Facts</h2>
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-</p>
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmVlNGZqenRkejh5dDg3OTB6OGg1eXQzdWV1ZDl6NnI1aWFjenJnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QTmfvHGklosY1ha87W/giphy.gif" alt="Footer" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%" />
+</div>
