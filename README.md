@@ -11,7 +11,7 @@ I'm a passionate Full Stack Developer with expertise in the MERN stack and NEXT.
 - 🌱 I’m currently working on my new portfolio website.
 - 👯 I’m looking to collaborate on exciting open-source projects.
 - 💬 Ask me about web development, JavaScript, and Next.js.
-- 📫 How to reach me: [Email](mailto:your-email@gmail.com), [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
+- 📫 How to reach me: [Email](mailto:myyard789@gmail.com), [LinkedIn](www.linkedin.com/in/mohammad-faiz-a8596b309)
 - ⚡ Fun fact: I love exploring new technologies and continuously improving my skills.
 
 ## 🔧 Technologies & Tools
