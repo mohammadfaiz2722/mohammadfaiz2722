@@ -1,5 +1,5 @@
 <!-- Header Section with GIF -->
-![Header GIF](https://media.giphy.com/media/xThta6SwYlAmGyNk3e/giphy.gif)
+![Header GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzAxbzdwZmdhNDJpem1ja2lreDFzbjhyaGJmMnd0ODhvaXg0NDhyeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif)
 
 # Hi there, I'm Mohammad Faiz 👋
 
