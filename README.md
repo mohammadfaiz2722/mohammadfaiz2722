@@ -88,9 +88,7 @@
   <a href="https://www.linkedin.com/in/mohammad-faiz-a8596b309" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/your-instagram/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
-  </a>
+
   <a href="https://github.com/mohammadfaiz2722" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" />
   </a>
